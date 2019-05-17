@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58dbe87c-d5e1-48b8-b347-b97d0fe470aa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/matrix.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MatrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../reverse-string/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../two-fer/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../exercism.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/modules/reverse-string_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/modules/reverse-string_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reverse-string/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../reverse-string/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/libraries/hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/libraries/junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/modules/two-fer_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/modules/two-fer_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../two-fer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Matrix.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -64,19 +24,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="323">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#398#399#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#388#389#0" expanded="true" />
+                <element signature="e#416#417#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MatrixTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
@@ -96,12 +59,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Matrix.java" />
         <option value="$PROJECT_DIR$/src/test/java/MatrixTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Matrix.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="173" />
     <option name="y" value="115" />
     <option name="width" value="1400" />
@@ -331,22 +294,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MatrixTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
           </folding>
         </state>
       </provider>
