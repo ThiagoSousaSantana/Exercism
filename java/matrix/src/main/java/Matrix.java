@@ -17,6 +17,8 @@ class Matrix {
     }
 
     int[] getColumn(int columnNumber) {
-       return null;
+       return Arrays.stream(matrix)
+               .mapToInt(x -> x[columnNumber])
+               .toArray();
     }
 }
