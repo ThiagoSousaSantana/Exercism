@@ -1,17 +1,18 @@
+import java.util.Arrays;
+import java.util.List;
+
 class Acronym {
     private String phrase;
 
     Acronym(String phrase) {
-        this.phrase = phrase;
+        this.phrase = phrase.toUpperCase();
     }
 
     String get() {
         String acronym = "";
-        String[] splitString = this.phrase.split(" |-");
+        List<String> splitString = Arrays.asList(this.phrase.split(" |-"));
 
-        for (String s: splitString) {
-            acronym += s.substring(0,1).toUpperCase();
-        }
+        for (String s: splitString) acronym += s.substring(0, 1);
         return acronym;
     }
 }
