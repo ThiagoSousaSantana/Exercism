@@ -10,6 +10,7 @@ public class IsogramCheckerTest {
         IsogramChecker iso = new IsogramChecker();
         assertTrue(iso.isIsogram(""));
     }
+
     
     @Test
     public void testLowercaseIsogram() {
@@ -57,6 +58,13 @@ public class IsogramCheckerTest {
     public void testIsogramWithHyphen() {
         IsogramChecker iso = new IsogramChecker();
         assertTrue(iso.isIsogram("thumbscrew-japingly"));
+    }
+
+    
+    @Test
+    public void testIsogramWithDuplicatedCharAfterHyphen() {
+        IsogramChecker iso = new IsogramChecker();
+        assertFalse(iso.isIsogram("thumbscrew-jappingly"));
     }
 
     
